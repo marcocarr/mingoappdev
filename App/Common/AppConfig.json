@@ -1,0 +1,64 @@
+{
+  "URL": {
+    "root": "http://news.inspireui.com"
+  },
+  "HorizonLayout": [
+    {
+      "tags": [
+        39
+      ],
+      "paging": true,
+      "layout": 4
+    },
+    {
+      "name": "Top Videos",
+      "categories": [
+        34
+      ],
+      "layout": 5
+    },
+    {
+      "name": "Quick Recipes",
+      "categories": [
+        36
+      ],
+      "paging": true,
+      "row": 3,
+      "layout": 3
+    },
+    {
+      "name": "Favorites Salads",
+      "categories": [
+        32
+      ],
+      "layout": 2
+    },
+    {
+      "name": "Kids Menu",
+      "categories": [
+        37
+      ],
+      "layout": 11,
+      "width": 120,
+      "height": 250
+    },
+    {
+      "name": "Drinks",
+      "categories": [
+        41
+      ],
+      "paging": true,
+      "row": 3,
+      "layout": 10
+    },
+    {
+      "name": "Smoothies",
+      "categories": [
+        33
+      ],
+      "paging": true,
+      "layout": 1
+    }
+  ],
+  "MainColor": "#1CB5B4"
+}
